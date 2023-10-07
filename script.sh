@@ -13,8 +13,8 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="bnbn"
-password="bnbn"
+username="zu20"
+password="zu20"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
 sshlimiter="1000"
@@ -34,7 +34,7 @@ LKKT GCP Channel Welcome
  LKKT VPN + Outline Key 1month(5000)
 </font></h4>
 <h3><font color='red'>
-▬▬▬▬▬LKKT GCP Channel▬▬▬▬▬
+▬▬▬LKKT GCP Channel▬▬▬
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
